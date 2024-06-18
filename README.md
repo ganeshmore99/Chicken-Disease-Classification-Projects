@@ -1,6 +1,6 @@
 # End-to-End Chicken Disease Classification
-![alt text](https://www.researchgate.net/publication/376077321/figure/fig3/AS:11431281208526099@1701416926946/Architecture-of-proposed-chicken-disease-detection-system.ppm)
 
+![chicken](https://github.com/ganeshmore99/Chicken-Disease-Classification-Projects/assets/85934803/e9a3ebfa-8f5b-4353-a7a4-6481721bc93a)
 
 This repository contains the code and workflows for an end-to-end project on chicken disease classification. The project involves various stages of machine learning and MLOps, including data preprocessing, model training, and deployment using CI/CD pipelines with Docker, GitHub Actions, and cloud platforms like AWS and Azure.
 
