@@ -27,7 +27,7 @@ Chicken disease classification is a critical task for ensuring the health and pr
 ## GitHub Repository Setup
 To set up the repository, clone it using the following command:
 
-git clone https://github.com/yourusername/end-to-end-chicken-disease-classification.git
+git clone https://github.com/ganeshmore99/end-to-end-chicken-disease-classification.git
 
 ## Project Template Creation
 A well-structured project template is essential for maintaining code organization and readability. This project follows a modular template to separate concerns and improve maintainability.
